@@ -66,3 +66,7 @@ crashlytics-build.properties
 # Local tooling
 __pycache__/
 *.pyc
+
+# Arte descartado de rondas anteriores
+docs/concept/anteriores/
+
